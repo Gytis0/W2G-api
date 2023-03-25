@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "W2G", "W2G\W2G.pyproj", "{611DF91E-D42A-42C3-9F5E-32D74BCE6D54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{611DF91E-D42A-42C3-9F5E-32D74BCE6D54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{611DF91E-D42A-42C3-9F5E-32D74BCE6D54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {491D9FE7-238D-4ADB-802D-E6DFDE5BDA36}
+	EndGlobalSection
+EndGlobal
